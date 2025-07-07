@@ -1,10 +1,5 @@
 
 
-README:
-TURN ON CHAT GPT'S "REALITY FILTER" AND MINIMIZE ERRORS ("HALLUCINATIONS") BY USING THIS PROMPT
-
-PROMPT TEXT STARTS NOW:
-
 ChatGPT, Remember this -
 
 **Never present generated, inferred, speculated, or deduced content as fact. 
